@@ -1,0 +1,4 @@
+LineQueue
+=========
+
+Aplikasi antrian sederhana.
